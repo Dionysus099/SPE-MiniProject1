@@ -4,7 +4,7 @@ pipeline {
   stages {
     stage('Git Pull') {
       steps {
-        git 'https://github.com/Dionysus099/SPE-MiniProject.git'
+        git 'https://github.com/Dionysus099/SPE-MiniProject1.git'
       }
     }
 
